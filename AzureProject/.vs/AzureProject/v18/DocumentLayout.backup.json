@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Private projects (for CV)\\AzureProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C093E96-CDE2-41E6-BEEF-67494A5628D4}|AzureProject\\AzureProject.csproj|d:\\private projects (for cv)\\azureproject\\azureproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C093E96-CDE2-41E6-BEEF-67494A5628D4}|AzureProject\\AzureProject.csproj|solutionrelative:azureproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\AzureProject\\AzureProject\\appsettings.json",
+              "RelativeDocumentMoniker": "AzureProject\\appsettings.json",
+              "ToolTip": "D:\\Private projects (for CV)\\AzureProject\\AzureProject\\appsettings.json",
+              "RelativeToolTip": "AzureProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T19:19:14.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
